@@ -1,1 +1,54 @@
+# Singly Linked List Problems
 
+## Easy
+
+|    # | Problem                                           |
+| ---: | ------------------------------------------------- |
+|   21 | Merge Two Sorted Lists                            |
+|   83 | Remove Duplicates from Sorted List                |
+|  141 | Linked List Cycle                                 |
+|  160 | Intersection of Two Linked Lists                  |
+|  203 | Remove Linked List Elements                       |
+|  206 | Reverse Linked List                               |
+|  234 | Palindrome Linked List                            |
+|  876 | Middle of the Linked List                         |
+| 1290 | Convert Binary Number in a Linked List to Integer |
+
+## Medium
+
+|    # | Problem                                                              |
+| ---: | -------------------------------------------------------------------- |
+|    2 | Add Two Numbers                                                      |
+|   19 | Remove Nth Node From End of List                                     |
+|   24 | Swap Nodes in Pairs                                                  |
+|   61 | Rotate List                                                          |
+|   82 | Remove Duplicates from Sorted List II                                |
+|   86 | Partition List                                                       |
+|   92 | Reverse Linked List II                                               |
+|  109 | Convert Sorted List to Binary Search Tree                            |
+|  138 | Copy List with Random Pointer                                        |
+|  142 | Linked List Cycle II                                                 |
+|  143 | Reorder List                                                         |
+|  147 | Insertion Sort List                                                  |
+|  148 | Sort List                                                            |
+|  445 | Add Two Numbers II                                                   |
+|  725 | Split Linked List in Parts                                           |
+| 1019 | Next Greater Node In Linked List                                     |
+| 1171 | Remove Zero Sum Consecutive Nodes from Linked List                   |
+| 1669 | Merge In Between Linked Lists                                        |
+| 1721 | Swapping Nodes in a Linked List                                      |
+| 2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points |
+| 2095 | Delete the Middle Node of a Linked List                              |
+| 2130 | Maximum Twin Sum of a Linked List                                    |
+| 2181 | Merge Nodes in Between Zeros                                         |
+| 2487 | Remove Nodes From Linked List                                        |
+| 2807 | Insert Greatest Common Divisors in Linked List                       |
+| 2816 | Double a Number Represented as a Linked List                         |
+| 3217 | Delete Nodes From Linked List Present in Array                       |
+
+## Hard
+
+|  # | Problem                  |
+| -: | ------------------------ |
+| 23 | Merge k Sorted Lists     |
+| 25 | Reverse Nodes in k-Group |
